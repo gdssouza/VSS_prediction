@@ -1,7 +1,7 @@
 ### SARIMA aplicado em dados do Observatório Magnético de Vassouras - ON
 Souza, Gustavo.
 
-O presente repositório é uma aplicação do Modelo de Previsão Autorregressivo Integrado  de  Média  Móvel Sazonal em dados magnéticos (série temporal). A motivação é puramente baseada em curiosidade e vontade de aprender.
+O presente repositório é uma aplicação do Modelo de Previsão Autorregressivo Integrado  de  Média  Móvel Sazonal em dados magnéticos (série temporal). A motivação é puramente baseada em curiosidade e vontade de aprender. Os próximos passos envolvem o teste de diferentes modelos, incluido machine learning.
 
 ![Resultados](resultado.jpeg)
 
